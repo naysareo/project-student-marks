@@ -22,6 +22,8 @@ The project data is stored in an SQLite database. The data type used for storage
 
 The "Student Marks" project provides a user-friendly interface for managing student data and allows easy tracking of student performance in different groups.
 
+
+(norsk)
 **Prosjekt Student Marks**
 _Prosjektet "Student Marks" er et program designet for å administrere informasjon om studenter og deres karakterer. Prosjektet er delt inn i fire hovedområder som gjør det mulig å legge til, redigere og vise informasjon om studentgrupper og deres prestasjoner._
 
